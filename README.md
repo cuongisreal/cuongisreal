@@ -1,4 +1,4 @@
-### Hi, I'm Chi Cuong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - I'm a Website Developer + Security Researcher 🌱 
+### Hi, I'm Chi Cuong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> - I'm a Website Developer + Security Researcher 🌱 
 
 - 🔭 I'm passionate about Data Science (DS), Build Website for Make Money Online (MMO), Programing fun tools.
 - 🥅 Besides, I also like to learn more languages ​​to develop myself as well as my business.
