@@ -45,5 +45,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/cuongisreal.IT)
 [![Zalo](https://img.shields.io/badge/Zalo-0077B5?style=for-the-badge&logo=zalo&color=0068ff&logoColor=white)](https://www.zalo.me/0377474579)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&color=0088CC&logoColor=white)](https://t.me/cuongisreal)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/5k56nFJNmt)
 
 [website]: https://cuongisreal.one
